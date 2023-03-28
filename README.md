@@ -1,2 +1,2 @@
 # programming-technology
-programming
+Лабораторные по программированию
